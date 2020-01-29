@@ -32,7 +32,7 @@ class Config(object):
     APP_VER     = '5.20.1'
     CARRIER     = '51089, 1-0'
     SYSTEM_NAME = 'JoPurba'
-    SYSTEM_VER  = '13.0.3'
+    SYSTEM_VER  = '10.15.2'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
 
