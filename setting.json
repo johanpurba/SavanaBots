@@ -4,13 +4,45 @@
     "userAgent": {},
     "keyCommand": "",
     "autoAdd": false,
+    "messageSticker": {
+        "addName": "",
+        "addStatus": false,
+        "listSticker": {
+            "addSticker": {
+                "STKID": "12555",
+                "STKPKGID": "11631",
+                "STKVER": "3",
+                "status": false
+            },
+            "leaveSticker": "",
+            "mentionSticker": {
+                "STKID": "11979804",
+                "STKPKGID": "1295985",
+                "STKVER": "1"
+            },
+            "readerSticker": {
+                "STKID": "176622572",
+                "STKPKGID": "14129",
+                "STKVER": "1",
+                "status": true
+            },
+            "replySticker": "",
+            "welcomeSticker": ""
+        }
+    },    
     "autoJoin": true,
     "autoJoinTicket": false,
     "autoReject": false,
     "autoLeave": false,
     "autoRead": false,
-    "autoBlock": false,
-    "stickerOn": false,  
+    "autoBlock": true,
+    "autoLike":true,    
+    "stickerOn": false,
+    "mention":"Ngintip jitak",
+    "Respontag":"Sekarang tag besok jatuh cinta... ",
+    "welcome":"Jangan lupa cek note kk..",
+    "leave":"See you next time...",
+    "comment":"Auto Like by: Savana Bots•☆",  
     "server": {},
     "changePicture": false,
     "changeGroupPicture": false,
@@ -43,7 +75,8 @@
     "video": {},    
     "greet": {},
     "limit": 1,
-    "message": "Hallo~",
+    "message":"Hai @!\nThanks for adding me..\n\n---- Auto Add ----\nSavana Bots•☆",
+    "messageBlock":"Hai @!\nThanks for adding me..\nSorry, Auto Block Active",    
     "message1": "Hey~",
     "allprotect": true,
     "readMember": {},
